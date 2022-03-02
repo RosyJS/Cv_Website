@@ -1,0 +1,44 @@
+.side-bar{
+    text-align: right; 
+    width: 250px; 
+    height: max-content;
+    border-right: 2px solid black;
+    float: left;
+  }
+  .pfp-rose{
+    margin-top: 30px; 
+    width: 100px; 
+    height: 100px;
+    margin-right: 5px;
+  }
+  .name{
+    font-size: 1.75em;
+    font-weight: 700;
+    padding-right: 10px;
+  }
+  .bi-laptop{
+    padding-right: 10px;
+    font-size: 1.5em;
+    font-weight: 500;
+  }
+  .bi-card-text{
+    padding-right: 10px;
+    font-size: 1.5em;
+    font-weight: 500;
+  }
+  .bi-github{
+    padding-right: 10px;
+    font-size: 1.5em;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+  }
+  .bi-laptop:hover{
+    cursor: pointer;
+  }
+  .bi-card-text:hover{
+    cursor: pointer;
+  }
+  .bi-github:hover{
+    cursor: pointer;
+  }
